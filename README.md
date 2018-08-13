@@ -28,3 +28,5 @@ The following scripts developed by Cole and Glenda, analyze the raw MongoDB data
 Results for each of these files is e-mailed to the provided email address, if the script is run within the MIT network (on the internet within MIT - the email address can be a non-MIT address and still run within the MIT network). The results are then deleted afterwards. If the script is not run on the MIT network, an error message will appear in the terminal and the output files will be available in the folder where the scripts are located. Look for a file with the extension ‘.csv’ 
 
 All three of these scripts are run from the command-line inside of the Sandbox environment. This is very important. These scripts will only run from Sandbox environment you created (clix-data or whatever you named your sandbox) because the Sandbox environment you created has the libraries installed that the scripts will need. 
+
+Detail install and setup information can be found in the Research Analytics – Environment Setup instructions.docx document.
