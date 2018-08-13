@@ -7,9 +7,13 @@ The scripts that Cole and Glenda developed are written in Python and are run fro
 In order to analyze the data being gathered in the field, you will need to install and use several pieces of software.
 
 ●	Wget – this is used to copy the data from the server to your local hard drive.
+
 ●	MongoDB – this is the database where the CLIx data is stored.
+
 ●	Python – this is the programming language used to develop the scripts.
+
 ●	Scripts – these are Python scripts that go through the data in the MongoDB and collect selected pieces of information.
+
 ●	Windows Terminal – sometime called the “command prompt”, the Windows Terminal is where you will type in the script commands.
 
 
